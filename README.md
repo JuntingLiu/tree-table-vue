@@ -1,4 +1,4 @@
-# tree-table-vue
+# vue-tree-table-vue-iview
 
 > A table(with tree-grid) component development based on tree-vue-table [@Lison](https://github.com/lison16/tree-table-vue))
 
