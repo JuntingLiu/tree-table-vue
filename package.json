@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/JuntingLiu/tree-table-vue"
   },
-  "main": "lib/tree-table-vue.js",
+  "main": "lib/vue-tree-table-iview.js",
   "files": [
     "lib",
     "example",
