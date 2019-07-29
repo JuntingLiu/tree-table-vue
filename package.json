@@ -1,5 +1,5 @@
 {
-  "name": "vue-tree-table",
+  "name": "vue-tree-table-by-iview",
   "version": "1.1.1",
   "description": "A table (with tree-grid) component for Vue.js 2.0. (Its style extends iView)",
   "keywords": [
