@@ -9,12 +9,12 @@
     "vue-component",
     "vue-jsx"
   ],
-  "author": "Lison<lison16new@163.com>",
-  "homepage": "https://github.com/lison16/tree-table-vue",
-  "bugs": "https://github.com/lison16/tree-table-vue/issues",
+  "author": "Junting<342766475@qq.com>",
+  "homepage": "https://github.com/JuntingLiu/tree-table-vue",
+  "bugs": "https://github.com/JuntingLiu/tree-table-vue/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lison16/tree-table-vue"
+    "url": "https://github.com/JuntingLiu/tree-table-vue"
   },
   "main": "lib/tree-table-vue.js",
   "files": [
